@@ -1,0 +1,55 @@
+{
+  "name": "Milton Friedman",
+  "title": "Milton Friedman · A Life",
+  "tagline": "Nobel laureate, teacher, columnist and broadcaster: the economist who put money back at the centre of economics and freedom at the centre of the argument.",
+  "occasion": "Published October 2026, fifty years after the Royal Swedish Academy of Sciences announced his Nobel Memorial Prize in Economic Sciences on 14 October 1976.",
+  "dates": "31 July 1912 – 16 November 2006",
+  "nav": [
+    {
+      "href": "/",
+      "label": "Life"
+    },
+    {
+      "href": "/writings",
+      "label": "Writings"
+    },
+    {
+      "href": "/speeches",
+      "label": "Speeches & Interviews"
+    },
+    {
+      "href": "/gallery",
+      "label": "Photographs"
+    },
+    {
+      "href": "/videos",
+      "label": "Videos"
+    },
+    {
+      "href": "/appearances",
+      "label": "Appearances"
+    },
+    {
+      "href": "/ideas",
+      "label": "Ideas"
+    }
+  ],
+  "stats": [
+    {
+      "value": "94",
+      "label": "years"
+    },
+    {
+      "value": "30+",
+      "label": "years teaching at Chicago"
+    },
+    {
+      "value": "300+",
+      "label": "Newsweek columns"
+    },
+    {
+      "value": "10",
+      "label": "episodes of Free to Choose"
+    }
+  ]
+}
